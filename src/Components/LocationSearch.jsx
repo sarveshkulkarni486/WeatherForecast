@@ -48,8 +48,11 @@ function LocationSearch() {
         case "clouds":
             case "overcast clouds":
                 case "mostly cloudy":
-                case "cloudy":
-                    return cloudy;
+                  case "broken clouds":
+                    case "scattered clouds":
+                      case "few clouds":
+                    case "cloudy":
+                      return cloudy;
         case "mist":
             case "hazy":
                 case "haze":

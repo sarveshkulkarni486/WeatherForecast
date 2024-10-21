@@ -1,11 +1,12 @@
 import react, { useState } from 'react';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import {FaCity} from 'react-icons/fa';
 import { CiLocationOn } from 'react-icons/ci';
 import {MdFolderZip, MdOutlinePin } from 'react-icons/md';
 import Home from './Home';
 import LocationSearch from './LocationSearch';
 import ZipCodeSearch from './ZipCodeSearch';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
 import './navbar.css';
 import {BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
 import App from '../App';

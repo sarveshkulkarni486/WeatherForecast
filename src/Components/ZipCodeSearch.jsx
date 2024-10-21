@@ -31,6 +31,7 @@ function ZipCodeSearch() {
             case "overcast clouds":
                 case "mostly cloudy":
                 case "cloudy":
+                  case "few clouds":
                     return cloudy;
         case "mist":
             case "hazy":

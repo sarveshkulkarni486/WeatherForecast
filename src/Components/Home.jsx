@@ -30,11 +30,13 @@ const Home = () => {
             case "clear sky":
                 case "sunny":
                     return sunny;
-            case "clouds":
-                case "overcast clouds":
-                    case "mostly cloudy":
-                    case "cloudy":
-                        return cloudy;
+                    case "clouds":
+                        case "overcast clouds":
+                            case "mostly cloudy":
+                              case "broken clouds":
+                                case "scattered clouds":
+                                case "cloudy":
+                                  return cloudy;
             case "mist":
                 case "hazy":
                     case "haze":
