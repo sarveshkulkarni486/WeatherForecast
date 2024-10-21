@@ -1,8 +1,35 @@
+<!-- Logo -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Weather%20App-React-blue?style=for-the-badge" alt="Weather App Logo">
+</p>
+
+<h1 align="center">🌤️ Weather App</h1>
+
+<!-- Description -->
+<p align="center">🌍 A dynamic Weather App built with <strong>React</strong>, <strong>Bootstrap</strong>, and <strong>CSS</strong>. Get real-time weather updates based on city name, postal code, or your current GPS location!</p>
+
+---
+
+## 🚀 Features
+- 🌆 Search weather by **City Name** or **Postal Code**
+- 📍 Get current weather based on your **Geolocation**
+- ☀️ Dynamic weather card displaying temperature and condition image
+- 🎨 Responsive design using **Bootstrap** and **CSS**
+- 🌦️ Fetch weather data using the **OpenWeather API**
+
+## 🛠️ Technologies Used
+- **React**
+- **Bootstrap**
+- **CSS**
+- **Geolocation API**
+- **OpenWeather API**
+
+## 🔧 Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+
+
+
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
