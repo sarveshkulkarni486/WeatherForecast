@@ -1,0 +1,26 @@
+.weather-card {
+    width: 18rem;
+    border: 2px solid #007bff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa;
+}
+.weather-card img {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+.weather-card .card-body{
+    padding: 20px;
+}
+.weather-card .card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: "#007bff";
+}
+.container {
+    max-width: 600px;
+}
+.form-control {
+    background-color: #f8f9fa;
+    color: black;
+}
